@@ -28,4 +28,4 @@ aprimorando minhas habilidades em HTML, CSS e JavaScript para criar interfaces d
 - 🎨 Design de Interfaces Atraentes
 - 📐 Padronização de Código
 
-📚 Sempre buscando aprender e compartilhar conhecimento, sou um entusiasta de código aberto e adoro contribuir para projetos de código aberto que considero valiosos para a comunidade.
+📚 Sempre buscando aprender e compartilhar conhecimento.
